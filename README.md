@@ -11,13 +11,13 @@ I received my **Ph.D. in Industrial and Information Engineering** from the **Uni
 - Wireless/telecommunications systems
 
 
-### Programming languages
+### Programming languages :computer:
 - **Python** (research prototyping, data analysis, ML tooling)
 - **MATLAB** (modeling, optimization, simulations)
 - **C** (performance-oriented implementations)
 - **Java** (coursework and projects)
 
-### Contact
+### Contact 📫 
 - Email: francesco.binucci@cnit.it  
 - LinkedIn: *[link](https://www.linkedin.com/in/francesco-binucci-phd-544b5a1b1/)*  
 - Google Scholar: [*link*](https://scholar.google.com/citations?user=H2NpLNcAAAAJ&hl=en)
