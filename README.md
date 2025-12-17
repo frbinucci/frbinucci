@@ -1,25 +1,36 @@
 ## Hi, I’m Francesco Binucci (aka **Dr. B**) 👋
  
-Postdoc at **CNIT, Italy** — I optimize networks so edge inference can happen without drama.
+I’m a **postdoctoral researcher** at the **National Inter-University Consortium for Telecommunications (CNIT)**, Italy. 🔬📡  
+I earned my **Ph.D. in Industrial and Information Engineering** from the **University of Perugia (Italy)** in **April 2025** 🎓  
+Right now I’m focusing on **goal-oriented communications** and **network optimization for edge inference** — trying to get the *right information* where it matters, fast. ⚡🧠
 
-Ph.D. in **Industrial and Information Engineering** from the **University of Perugia** (**April 2025**).  
-Current focus: **goal-oriented communications** + **network optimization** for **edge inference** (a.k.a. “getting the right bits to the right place at the right time”).
+---
 
+### 🔎 Research interests
+- Goal-oriented / semantic communications 🧩
+- Edge inference / edge intelligence 🧠📍
+- Network optimization & resource allocation ⚙️📈
+- Wireless & telecom systems 📶
 
-### Interests 🔭
-- Goal-oriented and semantic communications
-- Edge inference / edge intelligence
-- Network optimization and resource allocation
-- Wireless/telecommunications systems
+---
 
+### 💻 Dialects I use to convince computers
+- **Python** 🐍 (prototyping, experiments, data/ML tooling)
+- **MATLAB** 📊 (modeling, simulations, optimization)
+- **C / C++** ⚡ (performance-oriented implementations)
+- **Java** ☕ (coursework & projects)
 
-### Programming languages :computer:
-- **Python** (research prototyping, data analysis, ML tooling)
-- **MATLAB** (modeling, optimization, simulations)
-- **C** (performance-oriented implementations)
-- **Java** (coursework and projects)
+---
 
-### Contact 📫 
+### ✈️🧳🧱 Personal corner
+When I’m not optimizing networks, you’ll probably find me:
+- Looking at **airplanes** (and pretending I can identify them all) ✈️👀
+- Planning or doing **trips** 🌍🧳
+- Building **LEGO** constructions, one missing piece at a time 🧱🙂
+
+---
+
+### 📫Contact 
 - Email: francesco.binucci@cnit.it  
 - LinkedIn: *[link](https://www.linkedin.com/in/francesco-binucci-phd-544b5a1b1/)*  
 - Google Scholar: [*link*](https://scholar.google.com/citations?user=H2NpLNcAAAAJ&hl=en)
