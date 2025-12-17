@@ -1,8 +1,10 @@
-## Hi there, I'm Francesco Binucci 👋
+## Hi, I’m Francesco Binucci (aka **Dr. B**) 👋
+ 
+Postdoc at **CNIT, Italy** — I optimize networks so edge inference can happen without drama.
 
-I am currently a post-doctoral researcher at the **National Inter-University Consortium for Telecommunications (CNIT)**, Italy.
+Ph.D. in **Industrial and Information Engineering** from the **University of Perugia** (**April 2025**).  
+Current focus: **goal-oriented communications** + **network optimization** for **edge inference** (a.k.a. “getting the right bits to the right place at the right time”).
 
-I received my **Ph.D. in Industrial and Information Engineering** from the **University of Perugia (Italy)** in **April 2025**. My current research focuses on **goal-oriented communications** and **network optimization** for **edge inference**.
 
 ### Interests 🔭
 - Goal-oriented and semantic communications
