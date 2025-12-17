@@ -17,7 +17,6 @@ Right now I’m focusing on **goal-oriented communications** and **network optim
 ### 💻 Dialects I use to convince computers
 - **Python** 🐍 (prototyping, experiments, data/ML tooling)
 - **MATLAB** 📊 (modeling, simulations, optimization)
-- **C / C++** ⚡ (performance-oriented implementations)
 - **Java** ☕ (coursework & projects)
 
 ---
